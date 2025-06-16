@@ -11,7 +11,7 @@ function Hero() {
           </p>
           <button className="btn-order-now">
          Get Started Now
-         <img src="/next.png" alt="Next" className="btn-icon" />
+         <img src="/Next.png" alt="Next" className="btn-icon" />
           </button>
       <span className="join-text">Join as Restaurant</span>
         </div>
